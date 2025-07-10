@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #3498db, #8e44ad);
+    color: #fff;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.game-container {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+    text-align: center;
+    width: 90%;
+    max-width: 400px;
+    backdrop-filter: blur(8px);
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.scoreboard {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+.choices button {
+    background-color: #fff;
+    border: none;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+    font-size: 30px;
+    cursor: pointer;
+    transition: transform 0.2s ease, background-color 0.3s ease;
+}
+
+.choices button:hover {
+    transform: scale(1.1);
+    background-color: #f1f1f1;
+}
+
+.result p, .result h2 {
+    margin-top: 15px;
+    font-size: 18px;
+}
+
+.result h2 {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.reset-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: #e74c3c;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.reset-btn:hover {
+    background-color: #c0392b;
+}
+
+@media (max-width: 480px) {
+    .choices button {
+        width: 60px;
+        height: 60px;
+        font-size: 24px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+}
