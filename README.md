@@ -19,7 +19,7 @@ ________________________________________
 ________________________________________
 ▶️ Como Usar
 1.	Clone ou baixe o repositório:
-2.	git clone https://github.com/seu-usuario/jokenpo.git
+2.	git clone https://github.com/eduardomineireo100/jokenpo.git
 3.	Abra o arquivo index.html no seu navegador.
 ________________________________________
 💡 Exemplo de Uso
