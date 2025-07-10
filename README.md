@@ -1,7 +1,11 @@
+Prof. Eduardo Mineiro.'.
+https://w.app/c0akxe 
 Jogo Jokenpô (Pedra, Papel e Tesoura) feito com HTML, CSS e JavaScript:
 ________________________________________
 🪨📄✂️ Jokenpô - Pedra, Papel e Tesoura
-Este é um simples jogo de Jokenpô (Pedra, Papel e Tesoura) desenvolvido com HTML, CSS e JavaScript. Nele, o jogador compete contra o computador para ver quem vence cada rodada.
+Este é um simples jogo de Jokenpô (Pedra, Papel e Tesoura) desenvolvido com HTML, CSS e JavaScript.
+Nele, o jogador compete contra o computador para ver quem vence cada rodada.
+
 🚀 Demonstração
 Você pode abrir o arquivo index.html no seu navegador para jogar o Jokenpô.
 ________________________________________
